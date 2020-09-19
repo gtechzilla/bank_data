@@ -1,6 +1,6 @@
 <p>
   <a href="" rel="noopener">
- <img width=200px height=200px src="bank.jpg" alt="Project banner"></a>
+ <img width=200px height=200px src="bank.jpeg" alt="Project banner"></a>
 </p>
 
 <h3 align="center">Classification of Customers from Bank Data</h3>
