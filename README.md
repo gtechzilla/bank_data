@@ -1,8 +1,64 @@
-# File Descriptions
-Main.ipynb - Notebook where EDA was performed.Explains why various techniques were used
-Main.py - script that is able to output predictions of our data.Only uses the best model
-data.py - script containing classes and functions that clean and preprocess our data
-model.py -Has classes and functions that create our model and all the model related stuff such as metrics and performance
-requirements.txt - has all the libraries used in the codes
-# How to install
-To run this program use pip to run the requirements.txt file.This install all the modules
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Classification of Customers from Bank Data</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<p align="center"> Using data from a Portugesse bank,our task is to classify which customers of the bank are likely to subscribe to a term deposit or not.On identification of the customers likely to subscribe,the marketing team can focus their marketing resources on these customers. This will ensure that the bank is able to turn potential customers into actual customers without using resources on customers who are likely not to subscribe.
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Acknowledgments](#acknowledgement)
+
+## 🧐 About <a name = "about"></a>
+
+Write about 1-2 paragraphs describing the purpose of your project.
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+These instructions will get you a copy of the project up and running on your local machine for development.
+
+### Prerequisites
+
+All the requirements needed to run this project are in the "requirements.txt" file
+
+
+### Installing
+
+A step by step series of examples that tell you how to get a development env running.
+
+This steps creates a conda enviroment called "bank_project"(feel free to use a different enviroment name) in your computer
+
+```
+conda create env -n "bank_project"
+```
+
+Install the prerequistes in the enviroment you just created
+
+```
+pip install -r requirements.txt
+```
+
+
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+
+- Inspiration
+Thanks to 10Academy
+
+- References
