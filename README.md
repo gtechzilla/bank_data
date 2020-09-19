@@ -1,6 +1,6 @@
-<p align="center">
+<p>
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="bank.jpg" alt="Project banner"></a>
 </p>
 
 <h3 align="center">Classification of Customers from Bank Data</h3>
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"> Using data from a Portugesse bank,our task is to classify which customers of the bank are likely to subscribe to a term deposit or not.On identification of the customers likely to subscribe,the marketing team can focus their marketing resources on these customers. This will ensure that the bank is able to turn potential customers into actual customers without using resources on customers who are likely not to subscribe.
+<p align="center"> Using data from a Portugesse bank,our task is to classify which customers of the bank are likely to subscribe to a term deposit or not. Here we employ various machine learning algorithm so as to classify the customers. We explore the data using Tableau and preprocess it using various python libraries before creating our machine learning models.
     <br> 
 </p>
 
@@ -27,8 +27,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
+Classification of these customers will help the marketing team to appropriately allocate marketing/advertising resources to try and convert potentioal customers to actual subscribers.This will ensure that the bank is able to turn potential customers into actual customers without using resources on customers who are likely not to subscribe.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
